@@ -94,7 +94,15 @@ Each file contains:
 - Detection of low-confidence responses
 - Forced rejection when majority answers indicate lack of knowledge
 
+## Live Demo
+
+🔗 https://your-app-name.streamlit.app
+
 ---
+
+## Live Demo
+
+🔗 https://your-app-name.streamlit.app
 
 ## Author
 
