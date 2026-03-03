@@ -96,7 +96,7 @@ Each file contains:
 
 ## Live Demo
 
-🔗 https://your-app-name.streamlit.app
+🔗 https://talentscout-hiring-chatbot.streamlit.app/
 
 ---
 
